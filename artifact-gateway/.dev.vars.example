@@ -1,0 +1,3 @@
+# Used only to generate the secret binding's TypeScript shape.
+# Set the real value with `wrangler secret put UPLOAD_TOKEN`.
+UPLOAD_TOKEN=local-placeholder-not-a-secret
